@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>95A0AE66-F27D-41F6-B85D-215DB3FEE428</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Score-Keeper-Swift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5ECE8A75EEC660507C1200B9E8C0A8F209224C79</key>
+		<string>https://bitbucket.org/parkerdonat/phototower.git</string>
+		<key>67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA</key>
+		<string>https://github.com/parkerdonat/Score-Keeper-Swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Score-Keeper-Swift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5ECE8A75EEC660507C1200B9E8C0A8F209224C79</key>
+		<string>../../..</string>
+		<key>67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/parkerdonat/Score-Keeper-Swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5ECE8A75EEC660507C1200B9E8C0A8F209224C79</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Score-Keeper-Swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
