@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA" : 0,
+    "5ECE8A75EEC660507C1200B9E8C0A8F209224C79" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "95A0AE66-F27D-41F6-B85D-215DB3FEE428",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA" : "Score-Keeper-Swift",
+    "5ECE8A75EEC660507C1200B9E8C0A8F209224C79" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Score-Keeper-Swift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Score-Keeper-Swift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/parkerdonat\/phototower.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5ECE8A75EEC660507C1200B9E8C0A8F209224C79"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/parkerdonat\/Score-Keeper-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67EF9E0B2D186B3818227A9E5A6070EAE67DD6DA"
+    }
+  ]
+}

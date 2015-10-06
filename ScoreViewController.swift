@@ -27,18 +27,18 @@ class ScoreViewController: UIViewController {
     
     func addScrollView() {
         
-        var view = UIView(frame: CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height))
+        let view = UIView(frame: CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height))
         
-        var textFieldName = UITextField (frame: CGRectMake(2, 8, 100, 30))
+        let textFieldName = UITextField (frame: CGRectMake(2, 8, 100, 30))
         textFieldName.backgroundColor = UIColor.redColor()
         textFieldName.placeholder = "Game Name"
         view.addSubview(textFieldName)
     
-        var labelScore = UILabel (frame: CGRectMake(210, 8, 100, 30))
+        let labelScore = UILabel (frame: CGRectMake(210, 8, 100, 30))
         labelScore.backgroundColor = UIColor.redColor()
         view.addSubview(labelScore)
         
-        var scoreKeeper = UIStepper (frame: CGRectMake(110, 8, 40, 30))
+        let scoreKeeper = UIStepper (frame: CGRectMake(110, 8, 40, 30))
         scoreKeeper.backgroundColor = UIColor.greenColor()
         scoreKeeper.maximumValue = 1000
         scoreKeeper.minimumValue = -1000
